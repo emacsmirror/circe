@@ -1456,6 +1456,7 @@ Do not use this directly, use `circe-reconnect'"
                           '("chghost"
                             "extended-join"
                             "message-tags"
+                            "multi-prefix"
                             "setname"
                             "server-time"
                             "standard-replies"))
