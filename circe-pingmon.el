@@ -233,3 +233,6 @@ worthy of a notification."
                      (eq (irc-connection-state circe-server-process)
                          'registered))
             (circe-pingmon-init)))))))
+
+(provide 'circe-pingmon)
+;;; circe-pingmon.el ends here
